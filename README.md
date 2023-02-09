@@ -1,10 +1,10 @@
 
 <div align="center">
 <h1>Hi there :raised_hand_with_fingers_splayed:</h1>
-<h2>Expansion</h2>
+<h2>Navigational Rotation</h2>
 
 
-<h3 align="center">Navigational Rotation</h3> 
+<h3 align="center">Tabla de contenido</h3> 
 
 [1. Informacion General](#informacion-general)
 <br/>
